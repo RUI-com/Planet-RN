@@ -1,0 +1,11 @@
+{
+  "name": "mailbook-app",
+  "displayName": "Cpmputer Science Tutorial",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "9bc3320d-0e47-415b-a4d3-13e4c0cb8c2a"
+      }
+    }
+  }
+}
